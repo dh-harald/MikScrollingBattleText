@@ -1,0 +1,18 @@
+package-as: MikScrollingBattleText
+
+externals:
+  Libraries/CallbackHandler-1.0: https://github.com/dh-harald/Ace3v/CallbackHandler-1.0
+  Libraries/AceCore-3.0: https://github.com/dh-harald/Ace3v/AceCore-3.0
+  Libraries/AceAddon-3.0: https://github.com/laytya/Ace3v/AceAddon-3.0
+  Libraries/AceEvent-3.0: https://github.com/dh-harald/Ace3v/AceEvent-3.0
+  Libraries/AceConsole-3.0: https://github.com/dh-harald/Ace3v/AceConsole-3.0
+  Libraries/AceLocale-3.0: https://github.com/laytya/Ace3v/AceLocale-3.0
+  Libraries/AceDB-3.0: https://github.com/dh-harald/Ace3v/AceDB-3.0
+  Libraries/AceDBOptions-3.0: https://github.com/laytya/Ace3v/AceDBOptions-3.0
+  Libraries/LibSharedMedia-3.0: https://github.com/dh-harald/Ace3v/LibSharedMedia-3.0
+  Libraries/LibConfig-1.0: https://github.com/dh-harald/Ace3v/LibConfig-1.0
+  Libraries/LibBabble-Spell-2.2: https://github.com/dh-harald/Ace3v/LibBabble-Spell-2.2
+
+ignore:
+  - README.md
+  - LICENSE
