@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="EventLabels.lua"/>
+	<Script file="Options.lua"/>
+	<Script file="OptionsEvents.lua"/>
+	<Script file="OptionsTriggers.lua"/>
+	<Script file="OptionsMisc.lua"/>
+</Ui>

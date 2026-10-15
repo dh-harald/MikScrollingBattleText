@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: Mik's Scrolling Battle Text
+## Notes: Scrolling battle text for the 1.12.1 client and Unreal Azeroth.
+## Author: Mikord (original), 1.12.1 / Unreal Azeroth port
+## Version: @project-version@
+## SavedVariables: MSBTDB, MSBT_SavedMedia, MSBTDebugLog
+## OptionalDeps: LibSharedMedia-3.0
+
+Libraries\Load_Libraries.xml
+Locales\Load_Locales.xml
+Init.lua
+Core\Load_Core.xml
+Media\Load_Media.xml
+Parser\Load_Parser.xml
+Display\Load_Display.xml
+Modules\Load_Modules.xml
+Movers\Load_Movers.xml
+Config\Load_Config.xml
+Core\Load_Commands.xml

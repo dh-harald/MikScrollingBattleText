@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Animations.lua"/>
+	<Script file="AnimationStyles.lua"/>
+	<Script file="Icons.lua"/>
+</Ui>
